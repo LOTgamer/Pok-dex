@@ -4,3 +4,4 @@ Meu primeiro projeto com HTML e CSS e JavaScript copia do you tube  Manual do De
 <H3>Link do site<H3>
 <p>https://pok-fk7ibwxdb-lotgamer.vercel.app/</p>
 # Aqui está uma breve ideia deste projeto
+<img src="./images/pokedex.png" alt="pokedex" class="pokedex">
